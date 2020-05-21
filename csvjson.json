@@ -4,7 +4,7 @@
 {"name":"Kiwis","group":"C","value":7,"colname":"level3"},
 {"name":"Blueberries","group":"C","value":12,"colname":"level3"}],"colname":"level2"},
 {"name":"Vegetables","children":
-[{"name":"Broccoli","group":"C","value":1,"colname":"level3"},
+[{"name":"Broccoli","group":"C","value":10,"colname":"level3"},
 {"name":"Kale","group":"A","value":11,"colname":"level3"},
 {"name":"Carrots","group":"B","value":15,"colname":"level3"},
 {"name":"Spinach","group":"B","value":5,"colname":"level3"}],"colname":"level2"},
@@ -17,5 +17,5 @@
 [{"name":"Beef","group":"B","value":30,"colname":"level3"},
 {"name":"Poultry","group":"A","value":20,"colname":"level3"},
 {"name":"Pork","group":"A","value":10,"colname":"level3"},
-{"name":"Fish","group":"D","value":5,"colname":"level3"},
+{"name":"Fish","group":"D","value":15,"colname":"level3"},
 {"name":"Vegan","group":"D","value":22,"colname":"level3"}],"colname":"level2"}],"name":"Store"}
