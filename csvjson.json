@@ -8,10 +8,15 @@
 {"name":"mister_f","group":"A","value":11,"colname":"level3"},
 {"name":"mister_g","group":"B","value":15,"colname":"level3"},
 {"name":"mister_h","group":"B","value":16,"colname":"level3"}],"colname":"level2"},
+{"name":"Dairy","children":
+[{"name":"mister_x","group":"C","value":9,"colname":"level3"},
+{"name":"mister_y","group":"A","value":15,"colname":"level3"},
+{"name":"mister_z","group":"B","value":21,"colname":"level3"},
+{"name":"mister_w","group":"B","value":11,"colname":"level3"}],"colname":"level2"},
 {"name":"Meat","children":
 [{"name":"mister_i","group":"B","value":10,"colname":"level3"},
 {"name":"mister_j","group":"A","value":13,"colname":"level3"},
 {"name":"mister_k","group":"A","value":13,"colname":"level3"},
 {"name":"mister_l","group":"D","value":25,"colname":"level3"},
 {"name":"mister_m","group":"D","value":16,"colname":"level3"},
-{"name":"mister_n","group":"D","value":28,"colname":"level3"}],"colname":"level2"}],"name":"CEO"}
+{"name":"mister_n","group":"D","value":28,"colname":"level3"}],"colname":"level2"}],"name":"Store"}
