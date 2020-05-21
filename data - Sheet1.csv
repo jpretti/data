@@ -1,0 +1,9 @@
+name,parent,value
+fruit,,
+vegetables,,
+apples,fruit,36
+strawberries,fruit,12
+bananas,fruit,24
+kiwi,fruit,9
+celery,vegetables,14
+carrots,vegetables,40
