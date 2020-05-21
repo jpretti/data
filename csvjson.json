@@ -1,0 +1,42 @@
+[
+  {
+    "name": "fruit",
+    "parent": "",
+    "value": ""
+  },
+  {
+    "name": "vegetables",
+    "parent": "",
+    "value": ""
+  },
+  {
+    "name": "apples",
+    "parent": "fruit",
+    "value": 36
+  },
+  {
+    "name": "strawberries",
+    "parent": "fruit",
+    "value": 12
+  },
+  {
+    "name": "bananas",
+    "parent": "fruit",
+    "value": 24
+  },
+  {
+    "name": "kiwi",
+    "parent": "fruit",
+    "value": 9
+  },
+  {
+    "name": "celery",
+    "parent": "vegetables",
+    "value": 14
+  },
+  {
+    "name": "carrots",
+    "parent": "vegetables",
+    "value": 40
+  }
+]
