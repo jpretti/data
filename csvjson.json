@@ -14,8 +14,8 @@
 {"name":"Cheese","group":"B","value":21,"colname":"level3"},
 {"name":"Butter","group":"B","value":11,"colname":"level3"}],"colname":"level2"},
 {"name":"Meat","children":
-[{"name":"Beef","group":"B","value":30,"colname":"level3"},
-{"name":"Poultry","group":"A","value":20,"colname":"level3"},
-{"name":"Pork","group":"A","value":10,"colname":"level3"},
-{"name":"Fish","group":"D","value":15,"colname":"level3"},
-{"name":"Vegan","group":"D","value":22,"colname":"level3"}],"colname":"level2"}],"name":"Store"}
+[{"name":"Beef","group":"B","value":3,"colname":"level3"},
+{"name":"Poultry","group":"A","value":2,"colname":"level3"},
+{"name":"Pork","group":"A","value":1,"colname":"level3"},
+{"name":"Fish","group":"D","value":5,"colname":"level3"},
+{"name":"Vegan","group":"D","value":2,"colname":"level3"}],"colname":"level2"}],"name":"Store"}
