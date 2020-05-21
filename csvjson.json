@@ -1,21 +1,31 @@
-{"children":[{"name":"Fruit","children":
-[{"name":"Apples","group":"A","value":26,"colname":"level3"},
-{"name":"Bananas","group":"A","value":20,"colname":"level3"},
-{"name":"Kiwis","group":"C","value":7,"colname":"level3"},
-{"name":"Blueberries","group":"C","value":12,"colname":"level3"}],"colname":"level2"},
-{"name":"Vegetables","children":
-[{"name":"Broccoli","group":"C","value":10,"colname":"level3"},
-{"name":"Kale","group":"A","value":11,"colname":"level3"},
-{"name":"Carrots","group":"B","value":15,"colname":"level3"},
-{"name":"Spinach","group":"B","value":8,"colname":"level3"}],"colname":"level2"},
-{"name":"Dairy","children":
-[{"name":"Milk","group":"C","value":9,"colname":"level3"},
-{"name":"Yogurt","group":"A","value":8,"colname":"level3"},
-{"name":"Cheese","group":"B","value":21,"colname":"level3"},
-{"name":"Butter","group":"B","value":11,"colname":"level3"}],"colname":"level2"},
-{"name":"Meat","children":
-[{"name":"Beef","group":"B","value":30,"colname":"level3"},
-{"name":"Poultry","group":"A","value":21,"colname":"level3"},
-{"name":"Pork","group":"A","value":12,"colname":"level3"},
-{"name":"Fish","group":"D","value":15,"colname":"level3"},
-{"name":"Vegan","group":"D","value":24,"colname":"level3"}],"colname":"level2"}],"name":"Store"}
+{"children":
+  [{"name":"Fruit","children":
+    [{"name":"Apples","group":"A","value":26,"colname":"item"},
+    {"name":"Bananas","group":"A","value":20,"colname":"item"},
+    {"name":"Kiwis","group":"C","value":7,"colname":"item"},
+    {"name":"Blueberries","group":"C","value":12,"colname":"item"}],
+  "colname":"department"},
+
+  {"name":"Vegetables","children":
+    [{"name":"Broccoli","group":"C","value":10,"colname":"item"},
+    {"name":"Kale","group":"A","value":11,"colname":"item"},
+    {"name":"Carrots","group":"B","value":15,"colname":"item"},
+    {"name":"Spinach","group":"B","value":8,"colname":"item"}],
+  "colname":"department"},
+
+  {"name":"Dairy","children":
+    [{"name":"Milk","group":"C","value":9,"colname":"item"},
+    {"name":"Yogurt","group":"A","value":8,"colname":"item"},
+    {"name":"Cheese","group":"B","value":21,"colname":"item"},
+    {"name":"Butter","group":"B","value":11,"colname":"item"}],
+   "colname":"department"},
+
+  {"name":"Meat","children":
+    [{"name":"Beef","group":"B","value":30,"colname":"item"},
+    {"name":"Poultry","group":"A","value":21,"colname":"item"},
+    {"name":"Pork","group":"A","value":12,"colname":"item"},
+    {"name":"Fish","group":"D","value":15,"colname":"item"},
+    {"name":"Vegan","group":"D","value":24,"colname":"item"}],
+  "colname":"department"}],
+
+ "name":"Store"}
